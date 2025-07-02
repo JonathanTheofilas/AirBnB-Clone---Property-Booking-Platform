@@ -159,7 +159,7 @@ Ensure these environment variables are set in production:
 
 **Jonathan Theofilas**
 - GitHub: [@JonathanTheofilas](https://github.com/JonathanTheofilas))
-- LinkedIn: [Jonathan Theofilas](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Jonathan Theofilas](www.linkedin.com/in/jonathan-theofilas-9454732b7)
 
 ## 🙏 Acknowledgments
 
